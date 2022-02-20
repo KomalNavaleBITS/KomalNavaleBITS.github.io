@@ -1,0 +1,66 @@
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="container-fluid">
+<div id="home-page" class="home-page">
+<div class="align-right">
+<h1>Komal Navale</h1>
+<h3>Student of Third Semester</h3>
+<p>Master's of Technology in Software Engineering <br />Work Integrated Learning Programmes Division &amp; Practice School Division, <br />BITS Pilani, Pilani Campus</p>
+<br id="contact" />
+<p>Contact Details: <br />Email: 2020mt93614@wilp.bits-pilani.ac.in</p>
+<br />
+<h3>Profile</h3>
+<p>I am a Software Developer by profession and working at Tata Consultancy Services Ltd. as a Information Technology Analyst. I am having 5+ years of experience in .NET technologies. I have currently enrolled for Master's of Technology in Software Engineering course from BITS Pilani. I have created this page as a assignment</p>
+<br />
+<h3>Education</h3>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td><center>2016</center></td>
+<td>Bachelor of Engineering in Software Engineering from University of Mumbai</td>
+</tr>
+<tr>
+<td><center>2012</center></td>
+<td>Higher Secondary School of Certificate from Maharashtra State Board</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br id="work" /><br />
+<h3>Work Experience</h3>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>2016 till date</td>
+<td>Information Technology Analyst at Tata Consultancy Services Ltd.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="project-page" class="project-page">
+<div class="container-fluid">
+<p>&nbsp;</p>
+<p><em>Want to Contact Me? Fill Out the below Form! </em></p>
+</div>
+</div>
+<div id="contact-page" class="contact-page">
+<div class=" box-3 container-fluid">
+<h3 class="text-center">Contact Page</h3>
+<input required="" type="text" placeholder="Name" /><br /><input required="" type="text" placeholder="Email Adress" /> <br /><input required="" type="text" placeholder="Phone Number" /><br /><input required="" type="text" placeholder="Message" /> <br /><button type="submit">Submit</button>
+<p>&nbsp;</p>
+</div>
+</div>
+<div id="social-page" class="social-page">
+<div class="box-4 ">
+<h4>Social Media:</h4>
+<div class="row">
+<div class="col-xs-4"><form action="https://www.linkedin.com/in/komal-navale-713a1986"><button class="btn btn-block btn-info">LinkedIn</button></form></div>
+<div class="col-xs-4"><form action="https://github.com/KomalNavaleBITS/KomalNavaleBITS.github.io.git"><button class="btn btn-block btn-info"> GitHub</button></form></div>
+<div class="col-xs;-4"><form action="https://m.facebook.com/100004503312496/"><button class="btn btn-block btn-info"> Facebook</button></form></div>
+</div>
+</div>
+</div>
+<div class="navbar row">
+<div class="col-xs-4"><a class="button" href="#contact-page">Contact</a> <a class="button" href="#home-page">Home</a></div>
+</div>
